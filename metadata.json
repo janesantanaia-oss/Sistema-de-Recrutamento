@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Recrutamento Cultural com IA",
+  "description": "Um sistema inteligente de recrutamento focado em fit cultural e performance para marketing digital, utilizando LLMs do Google Gemini para avaliação de candidatos.",
+  "requestFramePermissions": []
+}
